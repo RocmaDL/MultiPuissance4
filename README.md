@@ -1,4 +1,4 @@
-# Puissance 4 Distribué
+# Multi Puissance 4
 
 ## Présentation du projet
 
@@ -138,3 +138,4 @@ Ce projet est distribué sous licence libre.
 ## Auteurs
 
 - [RocmaDL](https://www.github.com/RocmaDL)
+
